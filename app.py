@@ -10,7 +10,7 @@ import plotly.express as px
 # ==========================================
 st.set_page_config(page_title="AOCC Flight Delay Dashboard", layout="wide")
 st.title("✈️ Airport Operation Control Center (AOCC) Dashboard")
-st.subheader("Flight Delay & Gate Monitoring System")
+st.subheader("✈️Flight Delay & Gate Monitoring System")
 
 # Nama fail tegar atau auto-detect fail .csv di dalam folder
 CSV_FILE = "data_kul.csv"
